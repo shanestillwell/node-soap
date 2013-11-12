@@ -1,3 +1,5 @@
+> This is a patched version of [node-soa](https://github.com/milewise/node-soap), to add in [lastResponseHeaders](https://github.com/milewise/node-soap/pull/183).
+
 This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
 
 Features:
